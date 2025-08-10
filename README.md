@@ -12,7 +12,6 @@ With a minimal setup, you can send large volumes of messages to any valid Discor
 ## ✨ Features
 - 🚀 **High-speed message sending**
 - 🛠 **Customizable spam content**
-- 🌙 **Simple CLI interface**
 - 📂 **Lightweight — no unnecessary dependencies**
 
 ---
